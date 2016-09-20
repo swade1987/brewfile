@@ -18,3 +18,7 @@ cask 'slack'
 cask 'spotify'
 cask 'the-unarchiver'
 cask 'vlc'
+cask 'evernote'
+cask 'iterm'
+
+brew 'wget'
