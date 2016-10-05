@@ -23,5 +23,6 @@ cask 'evernote'
 cask 'iterm'
 cask 'terraform'
 cask 'packer'
+cask 'google-drive'
 
 brew 'wget'
